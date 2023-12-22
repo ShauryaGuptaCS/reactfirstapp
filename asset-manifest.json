@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShauryaGuptaCS/reactfirstapp/static/css/main.f855e6bc.css",
+    "main.js": "/ShauryaGuptaCS/reactfirstapp/static/js/main.5940a7a2.js",
+    "static/js/787.7e52bc4b.chunk.js": "/ShauryaGuptaCS/reactfirstapp/static/js/787.7e52bc4b.chunk.js",
+    "index.html": "/ShauryaGuptaCS/reactfirstapp/index.html",
+    "main.f855e6bc.css.map": "/ShauryaGuptaCS/reactfirstapp/static/css/main.f855e6bc.css.map",
+    "main.5940a7a2.js.map": "/ShauryaGuptaCS/reactfirstapp/static/js/main.5940a7a2.js.map",
+    "787.7e52bc4b.chunk.js.map": "/ShauryaGuptaCS/reactfirstapp/static/js/787.7e52bc4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5940a7a2.js"
+  ]
+}
